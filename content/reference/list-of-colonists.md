@@ -28,7 +28,7 @@
             <td>10</td>
             <td>4</td>
             <td>Army Barracks</td>
-            <td>0.3</td>
+            <td>0.003</td>
         </tr>
     </tbody>
 </table>
